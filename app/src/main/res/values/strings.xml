@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BitBuilderApp</string>
+    <string name="titulo">BitBuilder V0.1</string>
+    <string name="conectar">Conectar</string>
+    <string name="text_estado_b">Estado:</string>
+    <string name="text_id_miner">ID BuilderMiner:</string>
+    <string name="text_user">Usuario:</string>
+    <string name="button_inicio">COMIENZA A REGISTRAR</string>
+    <string name="text_timesamp_i">Timestamp inicial:</string>
+    <string name="button_fin">TERMINA EL RESPALDO</string>
+    <string name="text_t_final">Timestamp final:</string>
+    <string name="text_energia">Energía respaldada:</string>
+    <string name="text_estado_t">"Estado de \nla transacción:"</string>
+    <string name="button_desconectar">DESCONECTAR</string>
+    <string name="text_dispositivos_vinculados">DISPOSITIVOS VINCULADOS</string>
+    <string name="button_ok_terminar">OK</string>
+    <string name="titulo_popup">Resultado de la Transacción</string>
+
+    <string name="titulo_popupck">Ya existe un timestamp inicial en el equipo</string>
+    <string name="text_t_inick">Timestamp guardado:</string>
+    <string name="text_t_ini_newck">Nuevo timestamp:</string>
+    <string name="text_energia_check">Energía guardada:</string>
+    <string name="text_pregunta">¿Quieres enviar iniciar una nueva transacción o terminar la anterior? *si se inicia una nueva transacción los datos de la transacción guardada se borrarán*</string>
+    <string name="button_nueva">Nuevo</string>
+    <string name="button_anterior">Usar Guardado</string>
+
+    <string name="titulo_notyet">Aún no se guarda un timestamp inicial</string>
+    <string name="button_notyet">Volver</string>
+
+    <string name="titulo_login">Bitbuilder Login</string>
+    <string name="text_login_nombre">Nombre</string>
+    <string name="text_login_user">Usuario(mail)</string>
+    <string name="text_login_pass">Pass</string>
+    <string name="button_login">Login</string>
+    <string name="button_log_reg">Register</string>
+
+    <string name="titulo_register">Bitbuilder Register</string>
+    <string name="text_register_nombre">Nombre</string>
+    <string name="text_register_user">Usuario(mail)</string>
+    <string name="text_register_pass">Pass</string>
+    <string name="button_register">Register</string>
+
+
+
+
+
+</resources>
